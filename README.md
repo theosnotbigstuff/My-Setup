@@ -23,8 +23,8 @@ What items I use and the cost of everything.
 
 | Item | Devices | Price |
 | :--- | :--- | :--- |
-| Custom PC | Keychron B6 Pro Wireless + Philips Wired Mouse | £34.97 |
-| MacBook Pro 13' Early 2015 | Keychron B6 Pro Wireless + Magic Mouse | £29.97 |
+| Custom PC | Keychron C1 Pro 8K + Philips Wired Mouse | £59.99 |
+| MacBook Pro 13' Early 2015 | Keychron C1 Pro 8K + Magic Mouse | £77.02 |
 
 <h3>Monitor Stand</h3>
 
