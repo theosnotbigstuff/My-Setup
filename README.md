@@ -5,7 +5,7 @@ What items I use and the cost of everything.
 
 | Item | Price |
 | :--- | :--- |
-| Custom PC | £1051.39 |
+| Custom PC | £1,051.39 |
 | MacBook Pro 13' Early 2015 | £109.91 |
 
 <h3>Custom PC parts</h3>
